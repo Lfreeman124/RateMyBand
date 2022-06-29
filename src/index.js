@@ -10,7 +10,7 @@ root.render(
   <React.StrictMode>
     <BrowserRouter>
       <Routes>
-        <Route path="/RateMyBand" element={<App />} />
+        <Route path="/" element={<App />} />
         <Route path="bandPage" element={<BandPage />} />
       </Routes>
     </BrowserRouter>

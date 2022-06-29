@@ -44,17 +44,14 @@ html {
   overflow: hidden;
 }
 
-#stars {
+#stars56 {
   display: flex;
   margin-bottom: 1rem;
 }
 
-#stars img {
+.star {
   height: 2rem;
   width: 2rem;
-}
-
-.star {
   filter: invert(61%) sepia(84%) saturate(698%) hue-rotate(351deg)
     brightness(100%) contrast(98%);
 }
@@ -106,7 +103,7 @@ html {
   .band-container h1 {
     font-size: 1.5rem;
   }
-  #stars img {
+  .star56 {
     height: 1rem;
     width: 1rem;
   }

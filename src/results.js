@@ -70,19 +70,45 @@ export default function Results(props) {
   function stars(rating) {
     let stars2 = [];
     for (let i = 1; i <= rating; i++) {
-      stars2.push({ solidStar });
+      stars2.push("solid");
     }
     if (rating % 1 !== 0) {
-      stars2.push({ halfStar });
+      stars2.push("half");
     }
     for (let i = 1; i <= 5 - rating; i++) {
-      stars2.push({ emptyStar });
+      stars2.push("empty");
     }
-    stars2.map((each, index) => {
-      return (
-        <img key={index} className="review-star star" src={each} alt="star" />
-      );
+    stars2 = stars2.map((each, index) => {
+      if (each === "solid") {
+        return (
+          <img
+            key={index}
+            className="review-star star"
+            src={solidStar}
+            alt="star"
+          />
+        );
+      } else if (each === "half") {
+        return (
+          <img
+            key={index}
+            className="review-star star"
+            src={halfStar}
+            alt="star"
+          />
+        );
+      } else if (each === "empty") {
+        return (
+          <img
+            key={index}
+            className="review-star star"
+            src={emptyStar}
+            alt="star"
+          />
+        );
+      }
     });
+    return stars2;
   }
 
   //Printing the card
@@ -93,7 +119,7 @@ export default function Results(props) {
       <div id="band-photo">
         <img src={each.pic} alt="" />
       </div>
-      <div className="mobile-indent" id="stars">
+      <div className="mobile-indent" id="stars56">
         {stars(each.rating)}
       </div>
       <p className="mobile-indent" id="reviews">
