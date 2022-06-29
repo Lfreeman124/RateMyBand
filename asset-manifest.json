@@ -1,16 +1,24 @@
 {
   "files": {
-    "main.css": "/RateMyBand/static/css/main.073c9b0a.css",
-    "main.js": "/RateMyBand/static/js/main.ca02936d.js",
-    "static/js/787.243afeb5.chunk.js": "/RateMyBand/static/js/787.243afeb5.chunk.js",
-    "static/media/logo.svg": "/RateMyBand/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/RateMyBand/static/css/main.26ebf2cc.css",
+    "main.js": "/RateMyBand/static/js/main.d3cfe2c5.js",
+    "static/media/caleb-george-pH88tHG-1yw-unsplash.jpg": "/RateMyBand/static/media/caleb-george-pH88tHG-1yw-unsplash.474cf247a58eef58ff2e.jpg",
+    "static/media/star-regular.svg": "/RateMyBand/static/media/star-regular.2a1700e035f2a7237dd14ab4a7ce7ae9.svg",
+    "static/media/star-half-stroke-regular.svg": "/RateMyBand/static/media/star-half-stroke-regular.96ef9f4292a5cf672330dcbd54d6ed8f.svg",
+    "static/media/star-solid.svg": "/RateMyBand/static/media/star-solid.c4d44ce72583a8100a8070da1547e845.svg",
     "index.html": "/RateMyBand/index.html",
-    "main.073c9b0a.css.map": "/RateMyBand/static/css/main.073c9b0a.css.map",
-    "main.ca02936d.js.map": "/RateMyBand/static/js/main.ca02936d.js.map",
-    "787.243afeb5.chunk.js.map": "/RateMyBand/static/js/787.243afeb5.chunk.js.map"
+    "static/media/quote-right-solid.svg": "/RateMyBand/static/media/quote-right-solid.738c14af6524dbce8833.svg",
+    "static/media/quote-left-solid.svg": "/RateMyBand/static/media/quote-left-solid.1c003d5ac2302fe14c4a.svg",
+    "static/media/sort-solid.svg": "/RateMyBand/static/media/sort-solid.f439571bf459ecc46bd24827a6c1d3c7.svg",
+    "static/media/filter-solid.svg": "/RateMyBand/static/media/filter-solid.1569b220794d55b7ef2226ff791c6273.svg",
+    "static/media/arrow-up-solid.svg": "/RateMyBand/static/media/arrow-up-solid.f1944a7fde73d34f5e0b47caf73a9788.svg",
+    "static/media/arrow-down-solid.svg": "/RateMyBand/static/media/arrow-down-solid.0ed757ce4d7af4a858bbb7e5f044f9db.svg",
+    "static/media/search-outline.svg": "/RateMyBand/static/media/search-outline.4be0f579536375deb314.svg",
+    "main.26ebf2cc.css.map": "/RateMyBand/static/css/main.26ebf2cc.css.map",
+    "main.d3cfe2c5.js.map": "/RateMyBand/static/js/main.d3cfe2c5.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.ca02936d.js"
+    "static/css/main.26ebf2cc.css",
+    "static/js/main.d3cfe2c5.js"
   ]
 }
