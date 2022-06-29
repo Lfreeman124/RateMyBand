@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/RateMyBand/static/css/main.073c9b0a.css",
+    "main.js": "/RateMyBand/static/js/main.ca02936d.js",
+    "static/js/787.243afeb5.chunk.js": "/RateMyBand/static/js/787.243afeb5.chunk.js",
+    "static/media/logo.svg": "/RateMyBand/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/RateMyBand/index.html",
+    "main.073c9b0a.css.map": "/RateMyBand/static/css/main.073c9b0a.css.map",
+    "main.ca02936d.js.map": "/RateMyBand/static/js/main.ca02936d.js.map",
+    "787.243afeb5.chunk.js.map": "/RateMyBand/static/js/787.243afeb5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ca02936d.js"
+  ]
+}
