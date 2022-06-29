@@ -119,7 +119,7 @@ export default function BandPage() {
   return (
     <div>
       <section className="bio">
-        <Link to="RateMyBand/" className="home">
+        <Link to="RateMyBand" className="home">
           RateMyBand
         </Link>
 
